@@ -11,7 +11,7 @@
     <groupId>com.springboot</groupId>
     <artifactId>jdbc-muli</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>jdbc-muli</name>
+    <name>spring-boot-jdbc-muliti</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
